@@ -6,6 +6,6 @@
 	</head>
 
 	<body>
-		Hello Body
+		Hello Body 2
 	</body>
 </html>
